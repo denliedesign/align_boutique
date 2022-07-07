@@ -3,10 +3,10 @@
 
     <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel" style="position: relative;">
         <div class="carousel-inner">
-            <div class="carousel-item active">
+            <div class="carousel-item active" data-bs-interval="3000">
                 <img src="/images/banner-1.jpg" class="d-block w-100" alt="fitness girl">
             </div>
-            <div class="carousel-item">
+            <div class="carousel-item" data-bs-interval="3000">
                 <img src="/images/banner-2.jpg" class="d-block w-100" alt="fitness girl">
             </div>
         </div>
@@ -29,7 +29,7 @@
     <div class="bg-pink-gradient">
         <div class="container">
             <p class="text-white text-center txt-lg">
-                Welcome to The Dance Boutique in Friendswood, TX. We are your local dancewear store with top-rated dance attire, dance shoes, accessories, fitness apparel, gifts and more!
+                Welcome to Align Boutique! Our store serves a community of movers... dancers, athletes, yogis, and those looking for athleisure wear will find their favorite brands locally in Friendswood at Align Boutique.
             </p>
         </div>
     </div>
@@ -74,7 +74,7 @@
                             <br>
                             <br><strong>CONTACT</strong>
                             <br>Call | 281-992-2166
-                            <br>email | thedanceboutiquefwd@gmail.com
+                            <br>email | info@alignboutiquefriendswood.com
                         </p>
                     </div>
                 </div>

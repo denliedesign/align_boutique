@@ -3,28 +3,28 @@
         <h2 class="text-center my-3 quinn">Stay Social</h2>
         <div class="d-flex d-inline justify-content-center" id="stay-social">
             <div class="d-inline">
-                <a class="nav-link" href="#" target="_blank">
+                <a class="nav-link" href="https://www.facebook.com/TheDanceBoutiquefwd" target="_blank">
                     <ion-icon class="txt-violet" name="logo-facebook"></ion-icon>
                 </a>
             </div>
             <div class="d-inline">
-                <a class="nav-link mx-4" href="#" target="_blank">
+                <a class="nav-link mx-4" href="https://www.instagram.com/thedanceboutiquefwd/" target="_blank">
                     <ion-icon class="txt-violet" name="logo-instagram"></ion-icon>
                 </a>
             </div>
             <div class="d-inline">
-                <a class="nav-link" href="#" target="_blank">
+                <a class="nav-link" href="mailto: info@alignboutiquefriendswood.com" target="_blank">
                     <ion-icon class="txt-violet" name="mail"></ion-icon>
                 </a>
             </div>
         </div>
 
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-6 d-flex justify-content-center my-3">
-            <a href="#" target="_blank" class="mx-0 px-0 col d-flex justify-content-center"><img src="/images/insta1.png" alt="dancer" class="img-fluid"></a>
-            <a href="#" target="_blank" class="mx-0 px-0 col d-flex justify-content-center"><img src="/images/insta2.png" alt="dancer" class="img-fluid"></a>
-            <a href="#" target="_blank" class="mx-0 px-0 col d-flex justify-content-center"><img src="/images/insta3.png" alt="dancer" class="img-fluid"></a>
-            <a href="#" target="_blank" class="mx-0 px-0 col d-flex justify-content-center"><img src="/images/insta4.png" alt="dancer" class="img-fluid"></a>
-            <a href="#" target="_blank" class="mx-0 px-0 col d-flex justify-content-center"><img src="/images/insta5.png" alt="dancer" class="img-fluid"></a>
+            <a href="https://www.instagram.com/thedanceboutiquefwd/" target="_blank" class="mx-0 px-0 py-4 col d-flex justify-content-center"><img src="/images/insta1.png" alt="dancer" class="img-fluid"></a>
+            <a href="https://www.instagram.com/thedanceboutiquefwd/" target="_blank" class="mx-0 px-0 py-4 col d-flex justify-content-center"><img src="/images/insta2.png" alt="dancer" class="img-fluid"></a>
+            <a href="https://www.instagram.com/thedanceboutiquefwd/" target="_blank" class="mx-0 px-0 py-4 col d-flex justify-content-center"><img src="/images/insta3.png" alt="dancer" class="img-fluid"></a>
+            <a href="https://www.instagram.com/thedanceboutiquefwd/" target="_blank" class="mx-0 px-0 py-4 col d-flex justify-content-center"><img src="/images/insta4.png" alt="dancer" class="img-fluid"></a>
+            <a href="https://www.instagram.com/thedanceboutiquefwd/" target="_blank" class="mx-0 px-0 py-4 col d-flex justify-content-center"><img src="/images/insta5.png" alt="dancer" class="img-fluid"></a>
         </div>
 
         <p class="text-center txt-sm">
@@ -69,7 +69,7 @@
              <div class="col-sm my-1">
                  <strong>CONTACT</strong>
                  <br>Call | 281-992-2166
-                 <br>email | thedanceboutiquefwd@gmail.com
+                 <br>email | info@alignboutiquefriendswood.com
              </div>
          </div>
      </div>

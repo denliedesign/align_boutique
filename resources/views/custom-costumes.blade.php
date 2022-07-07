@@ -3,14 +3,20 @@
 
     <div class="container">
         <h2 class="quinn text-center my-4">Custom Costumes</h2>
-        <p class="text-center">
-            Stand out on stage with an original creation by Gaby, designed with you in mind!  Each costume is tailored to you physically and artistically, to enhance each movement and let your personality shine.
-        </p>
-
+        <div class="row mb-3">
+            <div class="col-sm-5 d-flex align-items-center">
+                <img src="/images/logo-custom-costumes.png" alt="custom costumes logo" class="img-fluid">
+            </div>
+            <div class="col-sm-7 d-flex align-items-center">
+                <p class="px-2 txt-lg" style="border-left: 2px solid #6A4187">
+                    Stand out on stage with an original creation by Gaby, designed with you in mind!  Each costume is tailored to you physically and artistically, to enhance each movement and let your personality shine.
+                </p>
+            </div>
+        </div>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
-            <div class="col"><img src="/images/cc-1.jpg" alt="dancer in custom costume" class="img-fluid shadow rounded"></div>
-            <div class="col"><img src="/images/cc-2.jpg" alt="dancer in custom costume" class="img-fluid shadow rounded"></div>
-            <div class="col"><img src="/images/cc-3.jpg" alt="dancer in custom costume" class="img-fluid shadow rounded"></div>
+            <div class="col py-4"><img src="/images/cc-1.jpg" alt="dancer in custom costume" class="img-fluid shadow rounded"></div>
+            <div class="col py-4"><img src="/images/cc-2.jpg" alt="dancer in custom costume" class="img-fluid shadow rounded"></div>
+            <div class="col py-4"><img src="/images/cc-3.jpg" alt="dancer in custom costume" class="img-fluid shadow rounded"></div>
         </div>
 
         <div class="d-flex justify-content-center my-4">
@@ -43,7 +49,7 @@
         <div class="row my-5">
             <div class="col-sm-4"><img src="/images/gaby-chacon.png" alt="gaby chacon" class="img-fluid shadow rounded"></div>
             <div class="col-sm-8">
-                <p>
+                <p class="mt-2">
                     Gaby is a third generation seamstress and has been a Dance Mom for over 10 years!  Gaby has a degree in graphic design, and a passion for the arts and crafts.  She originally moved to Friendswood in 2007 and then spent 5 years in the Los Angeles, CA area before returning to Friendswood in 2018.
                     <br><br>
                     Gaby's passion for sewing costumes started in 2011; triggered by her own need for unique pieces to showcase at her daughter's dance competitions.  She expanded her work to include her daughters entire competitive dance company in 2015  in Southern California. These costumes involved an extensive amount of rhinestone and bead work but were treasured for their originality, quality, and attention to detail. Gaby went on to make musical theater costumes and winning Best Costume.  As word spread about Gaby's designs, she started expanding her business to include groups from local studios and High School teams across the Southern California area.

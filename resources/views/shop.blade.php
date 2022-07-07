@@ -3,11 +3,15 @@
 
     <div class="container">
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-            <div class="col d-flex justify-content-end"><a href="#"><img style="max-height: 500px;" src="/images/shop-arrivals.jpg" class="img-fluid my-2" alt="shop new arrivals"></a></div>
-            <div class="col"><a href="#"><img style="max-height: 500px;" src="/images/shop-favorites.jpg" class="img-fluid my-2" alt="shop favorites"></a></div>
-            <div class="col d-flex justify-content-end"><a href="#"><img style="max-height: 500px;" src="/images/shop-wranglerettes.jpg" class="img-fluid my-2" alt="shop wranglerettes"></a></div>
-            <div class="col"><a href="#"><img style="max-height: 500px;" src="/images/shop-dance.jpg" class="img-fluid my-2" alt="shop dance"></a></div>
+            <div class="col p-4 d-flex justify-content-end"><a href="https://dance-boutique-friendswood.myshopify.com/collections/new-arrivals"><img style="max-height: 500px;" src="/images/shop-arrivals.jpg" class="img-fluid my-2" alt="shop new arrivals"></a></div>
+            <div class="col p-4"><a href="https://dance-boutique-friendswood.myshopify.com/collections/boutique-favorites"><img style="max-height: 500px;" src="/images/shop-favorites.jpg" class="img-fluid my-2" alt="shop favorites"></a></div>
+            <div class="col p-4 d-flex justify-content-end"><a href="https://dance-boutique-friendswood.myshopify.com/collections/wranglerette-1"><img style="max-height: 500px;" src="/images/shop-wranglerettes.jpg" class="img-fluid my-2" alt="shop wranglerettes"></a></div>
+            <div class="col p-4"><a href="https://dance-boutique-friendswood.myshopify.com/collections/chara-company"><img style="max-height: 500px;" src="/images/shop-dance.jpg" class="img-fluid my-2" alt="shop dance"></a></div>
         </div>
+
+        <p class="text-center my-4">
+            Want to officially partner with Align Boutique for your team or studio? Email us at <a href="mailto: teamsales@alignboutiquefriendswood.com">teamsales@alignboutiquefriendswood.com</a>
+        </p>
     </div>
 
 {{--    <div id="block-pink" class="my-5"></div>--}}
