@@ -27,16 +27,18 @@
             <a href="https://www.instagram.com/thedanceboutiquefwd/" target="_blank" class="mx-0 px-0 py-4 col d-flex justify-content-center"><img src="/images/insta5.png" alt="dancer" class="img-fluid"></a>
         </div>
 
-        <p class="text-center txt-sm">
-            Join our mailing list for exclusive offers, discounts, and for a glimpse at the latest in store.
-        </p>
-        <div class="d-flex justify-content-center">
-            <form class="d-flex form-inline">
-                {{--                    <label for="email" class="txt-sm">Email</label>--}}
-                <input type="email" name="email" id="email" class="form-control mx-3" placeholder="e-mail address">
-                <a href="#"><div class="btn btn-violet text-white px-4 shadow rounded">JOIN</div></a>
-            </form>
-        </div>
+{{--        <p class="text-center txt-sm">--}}
+{{--            Join our mailing list for exclusive offers, discounts, and for a glimpse at the latest in store.--}}
+{{--        </p>--}}
+{{--        <div class="d-flex justify-content-center">--}}
+{{--            <form class="d-flex form-inline">--}}
+{{--                --}}{{--                    <label for="email" class="txt-sm">Email</label>--}}
+{{--                <input type="email" name="email" id="email" class="form-control mx-3" placeholder="e-mail address">--}}
+{{--                <a href="#"><div class="btn btn-violet text-white px-4 shadow rounded">JOIN</div></a>--}}
+{{--            </form>--}}
+{{--        </div>--}}
+
+        @include('mailerlite')
 
     </div>
 </div>

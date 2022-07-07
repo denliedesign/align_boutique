@@ -18,7 +18,9 @@
     <style>
         @import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
     </style>
-
+    <style>
+        @import url("https://groot.mailerlite.com/assets/plugins/groot/modules/includes/groot_fonts/import.css?version=1655720");
+    </style>
 
 {{--    @if(session()->has('message'))--}}
 {{--        <div class="alert alert-success mb-0" role="alert">--}}
@@ -30,6 +32,16 @@
     @include('nav')
     @yield('content')
     @include('footer')
+
+<!-- MailerLite Universal -->
+    <script>
+        (function(w,d,e,u,f,l,n){w[f]=w[f]||function(){(w[f].q=w[f].q||[])
+            .push(arguments);},l=d.createElement(e),l.async=1,l.src=u,
+            n=d.getElementsByTagName(e)[0],n.parentNode.insertBefore(l,n);})
+        (window,document,'script','https://assets.mailerlite.com/js/universal.js','ml');
+        ml('account', '74647');
+    </script>
+    <!-- End MailerLite Universal -->
 
 </head>
 
