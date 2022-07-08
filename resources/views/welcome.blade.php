@@ -44,15 +44,15 @@
 
     <div class="container my-5" id="brand">
         <div class="row row-cols-3 row-cols-sm-3 row-cols-md-3 row-cols-lg-3">
-            <div class="d-flex justify-content-center col p-0"><img src="/images/logo-beyond-yoga.png" alt="logo" class="img-fluid"></div>
-            <div class="d-flex justify-content-center col p-0"><img src="/images/logo-alo-yoga.jpeg" alt="logo" class="img-fluid"></div>
-            <div class="d-flex justify-content-center col p-0"><img src="/images/logo-bloch.jpg" alt="logo" class="img-fluid"></div>
-            <div class="d-flex justify-content-center col p-0"><img src="/images/logo-body-wrappers.jpeg" alt="logo" class="img-fluid"></div>
-            <div class="d-flex justify-content-center col p-0"><img src="/images/logo-mono-b.png" alt="logo" class="img-fluid"></div>
-            <div class="d-flex justify-content-center col p-0"><img src="/images/logo-free-people-movement.png" alt="logo" class="img-fluid"></div>
-            <div class="d-flex justify-content-center col p-0"><img src="/images/logo-capezio.jpg" alt="logo" class="img-fluid"></div>
-            <div class="d-flex justify-content-center col p-0"><img src="/images/logo-lululemon.png" alt="logo" class="img-fluid"></div>
-            <div class="d-flex justify-content-center col p-0"><img src="/images/logo-spiritual-gangster.png" alt="logo" class="img-fluid"></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><img src="/images/logo-beyond-yoga.png" alt="logo"></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><img src="/images/logo-alo-yoga.png" alt="logo"></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><img src="/images/logo-bloch.png" alt="logo"></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><img src="/images/logo-body-wrappers.png" alt="logo"></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><img src="/images/logo-mono-b.png" alt="logo"></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><img src="/images/logo-crop-free-people-movement.png" alt="logo"></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><img src="/images/logo-capezio.png" alt="logo"></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><img src="/images/logo-lululemon.png" alt="logo"></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><img src="/images/logo-spiritual-gangster.png" alt="logo"></div></div>
         </div>
     </div>
 
