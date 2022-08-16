@@ -62,6 +62,14 @@ body {
     background: linear-gradient(#6A4187, #583E6A);
 }
 
+.txt-purple {
+    color: #6A4187
+}
+
+.txt-purple:hover {
+    color: #BF00D6;
+}
+
 .txt-violet {
     color: #BF00D6;
 }
