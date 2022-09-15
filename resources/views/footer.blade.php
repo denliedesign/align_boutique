@@ -39,8 +39,11 @@
 {{--        </div>--}}
 
         @include('mailerlite')
-        <div class="text-center my-1">
-            <a href="https://forms.gle/fFJtBKArgx8VqVqt9" target="_blank" class="txt-purple" style="text-decoration: none; font-size: 0.75em;">Apply Now</a>
+        <div class="text-center my-1" style="font-size: 0.75em;">
+            <p class="mb-0 pb-0">
+                Want to join our rockstar team at Align Boutique?
+            </p>
+            <a href="https://forms.gle/fFJtBKArgx8VqVqt9" target="_blank" class="txt-purple">Apply Now</a>
         </div>
 
     </div>
