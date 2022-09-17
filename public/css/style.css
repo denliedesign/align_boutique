@@ -63,8 +63,17 @@ body {
 }
 
 .txt-purple {
-    color: #6A4187
+    color: #6A4187;
 }
+
+.btn-purple {
+    background: #6A4187;
+}
+
+.btn-purple:hover {
+    background: #583E6A;
+}
+
 
 .txt-purple:hover {
     color: #BF00D6;
@@ -75,6 +84,10 @@ body {
 }
 
 .btn-violet {
+    background: #BF00D6;
+}
+
+.bg-violet {
     background: #BF00D6;
 }
 

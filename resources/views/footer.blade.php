@@ -39,12 +39,12 @@
 {{--        </div>--}}
 
         @include('mailerlite')
-        <div class="text-center my-1" style="font-size: 0.75em;">
-            <p class="mb-0 pb-0">
-                Want to join our rockstar team at Align Boutique?
-            </p>
-            <a href="https://forms.gle/fFJtBKArgx8VqVqt9" target="_blank" class="txt-purple">Apply Now</a>
-        </div>
+{{--        <div class="text-center my-1" style="font-size: 0.75em;">--}}
+{{--            <p class="mb-0 pb-0">--}}
+{{--                Want to join our rockstar team at Align Boutique?--}}
+{{--            </p>--}}
+{{--            <a href="https://forms.gle/fFJtBKArgx8VqVqt9" target="_blank" class="txt-purple">Apply Now</a>--}}
+{{--        </div>--}}
 
     </div>
 </div>
@@ -58,6 +58,16 @@
 </div>
 
  <div class="bg-purple-gradient text-white" style="transform: translateY(-1px);">
+     <div class="d-flex justify-content-center">
+         <div class="mb-0 mt-4 mx-3 py-3 px-4 text-center bg-purple rounded shadow row" style="font-size: 0.75em; width: max-content;">
+             <div class="col">Want to join our rockstar team at Align Boutique?</div>
+             <div class="col d-flex align-items-center justify-content-center">
+                 <div class="btn btn-violet text-white px-4 shadow rounded">
+                     <a href="https://forms.gle/fFJtBKArgx8VqVqt9" target="_blank" class="text-white" style="text-decoration: none;">Apply Now</a>
+                 </div>
+             </div>
+         </div>
+     </div>
      <div class="container py-3">
          <div class="row txt-sm d-flex align-items-center">
              <div class="col-sm my-1">
